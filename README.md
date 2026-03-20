@@ -11,7 +11,7 @@
 ## Repository Contents
 
 ```
-├── pest_analysis_describe_and_forecast_v3.1.py   # Complete analysis pipeline
+├── pest_analysis_describe_and_forecast_v3.2.py   # Complete analysis pipeline
 ├── data_csv_final.csv                             # Historical pest + weather data (2020-2024)
 ├── weather_2025_weekly.csv                        # 2025 weather data for out-of-sample forecast
 ├── figures/                                       # Generated figures (fig1-fig21, PNG)
