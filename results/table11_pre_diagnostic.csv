@@ -1,0 +1,4 @@
+Pest,ADF_stat,ADF_p,ADF_result,KPSS_stat,KPSS_p,KPSS_result,DW_stat,DW_result,LjungBox_p,LB_result,SW_W,SW_p,SW_result
+Maruca,-5.2802,0.0,Stationary,0.2504,0.1,Stationary,0.7907,Autocorr present,0.0,Serial autocorr,0.8886,0.0001,Non-normal
+Helicoverpa,1.1457,0.9956,Non-stationary,0.2265,0.1,Stationary,0.8031,Autocorr present,0.0,Serial autocorr,0.8014,0.0,Non-normal
+Podfly,-0.6685,0.8547,Non-stationary,0.2579,0.1,Stationary,0.7217,Autocorr present,0.0,Serial autocorr,0.9208,0.0014,Non-normal

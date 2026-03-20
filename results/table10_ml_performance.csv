@@ -1,0 +1,4 @@
+Pest,RF_CV_R2,RF_RMSE_CV,RF_TestR2,RF_TestRMSE,LASSO_alpha,LASSO_CVR2,TopFeature
+Maruca,0.273+/-0.213,5.217,0.197,7.825,0.0508,0.024,Std_Week_No
+Helicoverpa,0.295+/-0.210,6.518,0.358,8.891,0.06984,-0.095,Std_Week_No
+Podfly,0.701+/-0.265,10.455,0.902,9.391,0.11098,0.812,Std_Week_No

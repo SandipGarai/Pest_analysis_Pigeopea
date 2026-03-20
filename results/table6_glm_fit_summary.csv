@@ -1,0 +1,4 @@
+Pest,AIC,Deviance,df_resid,Poisson_OD,Pseudo_R2
+Maruca,340.93,44.55,48,4.976,0.1612
+Helicoverpa,322.33,63.63,48,7.244,0.1898
+Podfly,383.77,102.61,48,21.517,0.4415

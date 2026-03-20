@@ -1,0 +1,16 @@
+Pest,Year,W,p,Normal
+Maruca,2020,0.8396,0.0312,No
+Maruca,2021,0.9229,0.3436,Yes
+Maruca,2022,0.9586,0.7546,Yes
+Maruca,2023,0.9278,0.3888,Yes
+Maruca,2024,0.8658,0.0684,Yes
+Helicoverpa,2020,0.8095,0.0125,No
+Helicoverpa,2021,0.8898,0.1383,Yes
+Helicoverpa,2022,0.8728,0.0841,Yes
+Helicoverpa,2023,0.8205,0.0175,No
+Helicoverpa,2024,0.747,0.0019,No
+Podfly,2020,0.7796,0.0051,No
+Podfly,2021,0.8157,0.0151,No
+Podfly,2022,0.8007,0.0096,No
+Podfly,2023,0.8057,0.0112,No
+Podfly,2024,0.8365,0.0284,No
