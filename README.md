@@ -226,7 +226,7 @@ Waskom, M. (2021). seaborn: Statistical data visualization. _JOSS_, 6(60), 3021.
 
 If you use this code or data, please cite:
 
-> Garai, S. & Veeranna, D. (2026). _Pest infestation dynamics in relation to weather parameters in pigeonpea_ [Analysis pipeline]. GitHub. https://github.com/SandipGarai/Pest_analysis_Pigeopea
+> Garai, S. Kanaka, K.K. & Veeranna, D. (2026). _Pest infestation dynamics in relation to weather parameters in pigeonpea_ [Analysis pipeline]. GitHub. https://github.com/SandipGarai/Pest_analysis_Pigeopea
 
 ---
 
